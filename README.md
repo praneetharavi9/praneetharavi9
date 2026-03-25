@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**praneetharavi9/praneetharavi9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Praneetha Ravi 👋
 
-Here are some ideas to get you started:
+### Full-Stack Developer | Java · Spring Boot · .NET · React · Angular · AWS · Azure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🔭 **Currently** building cloud-native financial applications at The LCF Group, Alpharetta, GA  
+🌱 **Exploring** AI integration in enterprise applications and event-driven microservices  
+🎓 **Education** MS in Computer and Information Sciences — University at Albany, SUNY  
+📍 **Location** Alpharetta, GA — open to roles across the US (remote or hybrid)  
+
+---
